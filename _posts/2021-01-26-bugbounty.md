@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bug Bounty
-date: 2021-01-26 13:03:00
+date: 2021-01-26 10:03:00
 categories: [Security, Bugbounty]
 tags: [bugbounty]     # TAG names should always be lowercase
 ---
