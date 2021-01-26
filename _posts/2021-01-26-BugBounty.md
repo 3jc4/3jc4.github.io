@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bug Bounty
 date: 2021-01-26 13:03:00
 categories: [Security, Bugbounty]
