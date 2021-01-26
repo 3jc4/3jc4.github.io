@@ -1,15 +1,9 @@
 ---
-layout: post
 title: Bug Bounty
-date: 2021-01-26 10:03:00
+author: 3jc4
+date: 2021-01-26 10:03:00 +0800
 categories: [Security, Bugbounty]
-tags: [bugbounty]     # TAG names should always be lowercase
----
-toc: false
----
-comments: false
----
-pin: true
+tags: [bugbounty]     
 ---
 
 # Trucos BugBounty DragonJAR (HackMadrid%27)
